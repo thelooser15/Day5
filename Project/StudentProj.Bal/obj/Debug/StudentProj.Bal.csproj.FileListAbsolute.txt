@@ -1,0 +1,13 @@
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\obj\Debug\StudentProj.Bal.csproj.AssemblyReference.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\obj\Debug\StudentProj.Bal.csproj.CoreCompileInputs.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProj.Bal.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProj.Bal.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProject.Dao.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProject.Exceptions.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProject.Models.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProject.Dao.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProject.Exceptions.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\bin\Debug\StudentProject.Models.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\obj\Debug\StudentP.1B38E6DE.Up2Date
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\obj\Debug\StudentProj.Bal.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProj.Bal\obj\Debug\StudentProj.Bal.pdb

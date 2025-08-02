@@ -1,0 +1,6 @@
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\StudentProject.Models\bin\Debug\StudentProject.Models.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\StudentProject.Models\bin\Debug\StudentProject.Models.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\StudentProject.Models\obj\Debug\StudentProject.Models.csproj.AssemblyReference.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\StudentProject.Models\obj\Debug\StudentProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\StudentProject.Models\obj\Debug\StudentProject.Models.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\StudentProject.Models\obj\Debug\StudentProject.Models.pdb

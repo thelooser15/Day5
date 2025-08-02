@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day5\\FilesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB70005-B1E2-455F-B817-09DD3CFDF53A}|FilesExample\\FilesExample.csproj|c:\\users\\pavan\\desktop\\wipro\\training\\day5\\filesexample\\filesexample\\writeexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB70005-B1E2-455F-B817-09DD3CFDF53A}|FilesExample\\FilesExample.csproj|solutionrelative:filesexample\\writeexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB70005-B1E2-455F-B817-09DD3CFDF53A}|FilesExample\\FilesExample.csproj|c:\\users\\pavan\\desktop\\wipro\\training\\day5\\filesexample\\filesexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB70005-B1E2-455F-B817-09DD3CFDF53A}|FilesExample\\FilesExample.csproj|solutionrelative:filesexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB70005-B1E2-455F-B817-09DD3CFDF53A}|FilesExample\\FilesExample.csproj|c:\\users\\pavan\\desktop\\wipro\\training\\day5\\filesexample\\filesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB70005-B1E2-455F-B817-09DD3CFDF53A}|FilesExample\\FilesExample.csproj|solutionrelative:filesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day5\\FilesExample\\FilesExample\\Student.cs",
+              "RelativeDocumentMoniker": "FilesExample\\Student.cs",
+              "ToolTip": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day5\\FilesExample\\FilesExample\\Student.cs",
+              "RelativeToolTip": "FilesExample\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:47:08.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WriteExample.cs",
+              "DocumentMoniker": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day5\\FilesExample\\FilesExample\\WriteExample.cs",
+              "RelativeDocumentMoniker": "FilesExample\\WriteExample.cs",
+              "ToolTip": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day5\\FilesExample\\FilesExample\\WriteExample.cs",
+              "RelativeToolTip": "FilesExample\\WriteExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:45:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day5\\FilesExample\\FilesExample\\Program.cs",
+              "RelativeDocumentMoniker": "FilesExample\\Program.cs",
+              "ToolTip": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day5\\FilesExample\\FilesExample\\Program.cs",
+              "RelativeToolTip": "FilesExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:43:50.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

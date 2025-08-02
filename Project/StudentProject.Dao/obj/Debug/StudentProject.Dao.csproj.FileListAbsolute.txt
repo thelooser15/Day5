@@ -1,0 +1,9 @@
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\obj\Debug\StudentProject.Dao.csproj.AssemblyReference.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\obj\Debug\StudentProject.Dao.csproj.CoreCompileInputs.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\bin\Debug\StudentProject.Dao.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\bin\Debug\StudentProject.Dao.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\bin\Debug\StudentProject.Models.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\bin\Debug\StudentProject.Models.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\obj\Debug\StudentP.0A7B4C12.Up2Date
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\obj\Debug\StudentProject.Dao.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Dao\obj\Debug\StudentProject.Dao.pdb

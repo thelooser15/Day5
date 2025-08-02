@@ -1,0 +1,8 @@
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\bin\Debug\PropertiesExamples.exe.config
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\bin\Debug\PropertiesExamples.exe
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\bin\Debug\PropertiesExamples.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.csproj.AssemblyReference.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.csproj.CoreCompileInputs.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.exe
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day5\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.exe.config

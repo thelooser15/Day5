@@ -1,9 +1,0 @@
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\bin\Debug\EmployProject.Dao.dll
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\bin\Debug\EmployProject.Dao.pdb
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\bin\Debug\StudentProject.Models.dll
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\bin\Debug\StudentProject.Models.pdb
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\obj\Debug\EmployProject.Dao.csproj.AssemblyReference.cache
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\obj\Debug\EmployProject.Dao.csproj.CoreCompileInputs.cache
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\obj\Debug\EmployPr.C7CEE7C7.Up2Date
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\obj\Debug\EmployProject.Dao.dll
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Models\EmployProject.Dao\obj\Debug\EmployProject.Dao.pdb

@@ -1,6 +1,0 @@
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Exceptions\bin\Debug\StudentProject.Exceptions.dll
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Exceptions\bin\Debug\StudentProject.Exceptions.pdb
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Exceptions\obj\Debug\StudentProject.Exceptions.csproj.AssemblyReference.cache
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Exceptions\obj\Debug\StudentProject.Exceptions.csproj.CoreCompileInputs.cache
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Exceptions\obj\Debug\StudentProject.Exceptions.dll
-C:\Users\PAVAN\Desktop\wipro\training\Day5\Project\StudentProject.Exceptions\obj\Debug\StudentProject.Exceptions.pdb
